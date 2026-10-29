@@ -98,3 +98,6 @@ drop table favorite_food;
 
 desc customer;
 
+select * from person where person_id is not null;
+
+
